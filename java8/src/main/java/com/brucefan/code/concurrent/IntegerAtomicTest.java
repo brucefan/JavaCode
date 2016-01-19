@@ -5,7 +5,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
 /**
- * Created by bruce01.fan on 2015/11/4.
  */
 public class IntegerAtomicTest {
 
@@ -56,7 +55,6 @@ public class IntegerAtomicTest {
         latch.await();
         endTime = System.nanoTime();
         System.out.println("atomicInteger 实现int 递增耗时:" + (endTime - beginTime));
-
     }
 
 

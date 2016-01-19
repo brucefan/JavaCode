@@ -1,7 +1,6 @@
 package com.brucefan.model;
 
 /**
- * Created by bruce01.fan on 2015/11/3.
  */
 public class Address {
     private String name;

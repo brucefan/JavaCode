@@ -9,7 +9,6 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Executors;
 
 /**
- * Created by bruce01.fan on 2015/12/30.
  */
 public class ListenableFutureTest {
 

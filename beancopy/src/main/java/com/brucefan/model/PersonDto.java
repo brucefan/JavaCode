@@ -3,7 +3,6 @@ package com.brucefan.model;
 import java.util.List;
 
 /**
- * Created by bruce01.fan on 2015/11/3.
  */
 public class PersonDto {
 

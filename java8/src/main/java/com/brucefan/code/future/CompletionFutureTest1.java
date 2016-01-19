@@ -8,7 +8,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by bruce01.fan on 2016/1/4.
  */
 public class CompletionFutureTest1 {
 
